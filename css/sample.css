@@ -1,0 +1,52 @@
+/* line 1, ../scss/sample.scss */
+.test {
+  float: left;
+  width: 240px;
+  height: 240px;
+  display: block;
+}
+
+/* line 8, ../scss/sample.scss */
+#test1 {
+  background-color: #3f743e;
+}
+
+/* line 9, ../scss/sample.scss */
+#test2 {
+  background-color: #3e6574;
+}
+
+/* line 10, ../scss/sample.scss */
+#test3 {
+  background-color: #553e74;
+}
+
+/* line 11, ../scss/sample.scss */
+#test4 {
+  background-color: #3e5174;
+}
+
+/* line 12, ../scss/sample.scss */
+#test5 {
+  background-color: #743e43;
+}
+
+/* line 13, ../scss/sample.scss */
+#test6 {
+  background-color: #3e743e;
+}
+
+/* line 14, ../scss/sample.scss */
+#test7 {
+  background-color: #453e74;
+}
+
+/* line 15, ../scss/sample.scss */
+#test8 {
+  background-color: #74483e;
+}
+
+/* line 16, ../scss/sample.scss */
+#test9 {
+  background-color: #653e74;
+}

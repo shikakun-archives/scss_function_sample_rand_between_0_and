@@ -1,0 +1,5 @@
+http_path = "/"
+css_dir = "css"
+sass_dir = "scss"
+extensions_dir = "./scss/extensions"
+require "#{extensions_dir}/functions.rb"
